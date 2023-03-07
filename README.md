@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniel Amoni
 #### I am Front-end developer specialist.  
-![I am Front-end developer specialist.  ](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif)
+![I am Front-end developer and CyberSecurity passionate.  ](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif)
 
 I'm a web developer located in Orlando FL. Please feel free to take a look to my projects anytime. 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
